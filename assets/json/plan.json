@@ -1,0 +1,935 @@
+{
+    "name": "Premier Complete Family",
+    "code": "premcomfam",
+    "description": "Premier Complete Family",
+    "planFeatures": [
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908731Z",
+                "updatedAt": "2022-06-11T09:51:45.908731Z",
+                "id": "016d48c9-c208-11e9-b026-0ac7f0639f52",
+                "code": "FOURIQ",
+                "name": "4iQ Dark Web Tool Feature",
+                "description": "4iQ Dark Web Surveillance/Monitoring tool",
+                "category": "automatic",
+                "group": "DARK_WEB",
+                "requirementType": "optional",
+                "childFeature": true,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": []
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908639Z",
+                "updatedAt": "2022-06-11T09:51:45.908639Z",
+                "id": "016d48c9-c208-11e9-b026-0ac70422422c",
+                "code": "WALLET_PROTECTION",
+                "name": "Wallet Protection Feature",
+                "description": "Wallet Protection feature",
+                "category": "automatic",
+                "group": "WALLET_PROTECTION",
+                "requirementType": "optional",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": []
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908659Z",
+                "updatedAt": "2022-06-11T09:51:45.908659Z",
+                "id": "016d48c9-c208-11e9-b026-0ac7dca4fcc0",
+                "code": "CREDIT_REPORT",
+                "name": "Credit Report Feature",
+                "description": "Three-Bureau Credit Report",
+                "category": "credit report",
+                "group": "CREDIT_REPORT_3B",
+                "requirementType": "optional",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": [
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908667Z",
+                        "updatedAt": "2022-06-11T09:51:45.908667Z",
+                        "id": null,
+                        "name": "dob",
+                        "description": "date of birth"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908663Z",
+                        "updatedAt": "2022-06-11T09:51:45.908663Z",
+                        "id": null,
+                        "name": "name",
+                        "description": "first, last, middle, suffix"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908665Z",
+                        "updatedAt": "2022-06-11T09:51:45.908665Z",
+                        "id": null,
+                        "name": "address",
+                        "description": "street1, street2, city, state, zip"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908669Z",
+                        "updatedAt": "2022-06-11T09:51:45.908669Z",
+                        "id": null,
+                        "name": "ssn",
+                        "description": "social security number"
+                    }
+                ]
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908748Z",
+                "updatedAt": "2022-06-11T09:51:45.908748Z",
+                "id": "5a4719c6-8a52-da4c-79f2-f3c208afcf08",
+                "code": "THREAT",
+                "name": "Threat Monitoring",
+                "description": "Threat Monitoring",
+                "category": "automatic",
+                "group": "THREAT_ALERTS",
+                "requirementType": "optional",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": []
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.90871Z",
+                "updatedAt": "2022-06-11T09:51:45.90871Z",
+                "id": "016d48c9-c208-11e9-b026-0ac7f5f03cf7",
+                "code": "PIPPA",
+                "name": "PIPPA Tool Feature",
+                "description": "Precise ID Personal Protection Alerts Monitoring tool",
+                "category": "tool",
+                "group": "AUTHENTICATION_ALERTS",
+                "requirementType": "mandatory",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": [
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908714Z",
+                        "updatedAt": "2022-06-11T09:51:45.908714Z",
+                        "id": null,
+                        "name": "name",
+                        "description": "first, last, middle, suffix"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908716Z",
+                        "updatedAt": "2022-06-11T09:51:45.908716Z",
+                        "id": null,
+                        "name": "address",
+                        "description": "street1, street2, city, state, zip"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908718Z",
+                        "updatedAt": "2022-06-11T09:51:45.908718Z",
+                        "id": null,
+                        "name": "ssn",
+                        "description": "social security number"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.90872Z",
+                        "updatedAt": "2022-06-11T09:51:45.90872Z",
+                        "id": null,
+                        "name": "pid",
+                        "description": "precise identity verification"
+                    }
+                ]
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908673Z",
+                "updatedAt": "2022-06-11T09:51:45.908673Z",
+                "id": "016d48c9-c208-11e9-b026-0ac7e6b713bf",
+                "code": "EFXCM",
+                "name": "Equifax Credit Monitoring Feature",
+                "description": "Equifax One-Bureau Credit Monitoring Feature",
+                "category": "monitoring",
+                "group": "CREDIT_MONITORING_1B",
+                "requirementType": "mandatory",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": [
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908682Z",
+                        "updatedAt": "2022-06-11T09:51:45.908682Z",
+                        "id": null,
+                        "name": "dob",
+                        "description": "date of birth"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908678Z",
+                        "updatedAt": "2022-06-11T09:51:45.908678Z",
+                        "id": null,
+                        "name": "name",
+                        "description": "first, last, middle, suffix"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.90868Z",
+                        "updatedAt": "2022-06-11T09:51:45.90868Z",
+                        "id": null,
+                        "name": "address",
+                        "description": "street1, street2, city, state, zip"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908683Z",
+                        "updatedAt": "2022-06-11T09:51:45.908683Z",
+                        "id": null,
+                        "name": "ssn",
+                        "description": "social security number"
+                    }
+                ]
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908724Z",
+                "updatedAt": "2022-06-11T09:51:45.908724Z",
+                "id": "016d48c9-c208-11e9-b026-0ac7ff7dc363",
+                "code": "TUIA",
+                "name": "TUIA Tool Feature",
+                "description": "Trans Union Instant Alerts Monitoring tool",
+                "category": "tool",
+                "group": "CREDIT_MONITORING_3B",
+                "requirementType": "mandatory",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": [
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908728Z",
+                        "updatedAt": "2022-06-11T09:51:45.908728Z",
+                        "id": null,
+                        "name": "ssn",
+                        "description": "social security number"
+                    }
+                ]
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908646Z",
+                "updatedAt": "2022-06-11T09:51:45.908646Z",
+                "id": "016d48c9-c208-11e9-b026-0ac70613c376",
+                "code": "XPNCM",
+                "name": "XPNCM Tool Feature",
+                "description": "Experian Credit Monitoring Tool Feature",
+                "category": "tool",
+                "group": "CREDIT_MONITORING_3B",
+                "requirementType": "mandatory",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": [
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908651Z",
+                        "updatedAt": "2022-06-11T09:51:45.908651Z",
+                        "id": null,
+                        "name": "name",
+                        "description": "first, last, middle, suffix"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908653Z",
+                        "updatedAt": "2022-06-11T09:51:45.908653Z",
+                        "id": null,
+                        "name": "address",
+                        "description": "street1, street2, city, state, zip"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908655Z",
+                        "updatedAt": "2022-06-11T09:51:45.908655Z",
+                        "id": null,
+                        "name": "ssn",
+                        "description": "social security number"
+                    }
+                ]
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908742Z",
+                "updatedAt": "2022-06-11T09:51:45.908742Z",
+                "id": "016d48c9-c208-11e9-b026-0ac7e3ae9a6e",
+                "code": "CYVEILLANCE",
+                "name": "Cyveillance Tool Feature",
+                "description": "Cyveillance Web Surveillance tool",
+                "category": "tool",
+                "group": "DARK_WEB",
+                "requirementType": "optional",
+                "childFeature": true,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": []
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908758Z",
+                "updatedAt": "2022-06-11T09:51:45.908758Z",
+                "id": "5a471a84-5752-4fdd-736a-95bdeb7656f7",
+                "code": "INSURANCE",
+                "name": "1M Insurance",
+                "description": "One Million Identity Theft Insurance",
+                "category": "automatic",
+                "group": "IDENTITY_THEFT_INSURANCE_1MIL",
+                "requirementType": "optional",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": []
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908687Z",
+                "updatedAt": "2022-06-11T09:51:45.908687Z",
+                "id": "016d48c9-c208-11e9-b026-0ac7ee86836e",
+                "code": "EWS",
+                "name": "EWS Tool Feature",
+                "description": "Early Warning System Monitoring tool",
+                "category": "tool",
+                "group": "BANK_ACCOUNT_MONITORING",
+                "requirementType": "mandatory",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": [
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908695Z",
+                        "updatedAt": "2022-06-11T09:51:45.908695Z",
+                        "id": null,
+                        "name": "dob",
+                        "description": "date of birth"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908691Z",
+                        "updatedAt": "2022-06-11T09:51:45.908691Z",
+                        "id": null,
+                        "name": "name",
+                        "description": "first, last, middle, suffix"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908693Z",
+                        "updatedAt": "2022-06-11T09:51:45.908693Z",
+                        "id": null,
+                        "name": "address",
+                        "description": "street1, street2, city, state, zip"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908697Z",
+                        "updatedAt": "2022-06-11T09:51:45.908697Z",
+                        "id": null,
+                        "name": "ssn",
+                        "description": "social security number"
+                    }
+                ]
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908753Z",
+                "updatedAt": "2022-06-11T09:51:45.908753Z",
+                "id": "5a471a36-0906-d7ae-6457-18d96f246365",
+                "code": "RMS",
+                "name": "Risk Management Score",
+                "description": "Risk Management Score",
+                "category": "automatic",
+                "group": "RISK_ASSESSMENT",
+                "requirementType": "optional",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": []
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908564Z",
+                "updatedAt": "2022-06-11T09:51:45.908564Z",
+                "id": "016d48c9-c208-11e9-b026-0ac701c98277",
+                "code": "TUVS",
+                "name": "TUVS Tool Feature",
+                "description": "TransUnion Vantage Credit Score Tool Feature",
+                "category": "tool",
+                "group": "CREDIT_SCORE",
+                "requirementType": "optional",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": [
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908627Z",
+                        "updatedAt": "2022-06-11T09:51:45.908627Z",
+                        "id": null,
+                        "name": "dob",
+                        "description": "date of birth"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908612Z",
+                        "updatedAt": "2022-06-11T09:51:45.908612Z",
+                        "id": null,
+                        "name": "name",
+                        "description": "first, last, middle, suffix"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908625Z",
+                        "updatedAt": "2022-06-11T09:51:45.908625Z",
+                        "id": null,
+                        "name": "address",
+                        "description": "street1, street2, city, state, zip"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908629Z",
+                        "updatedAt": "2022-06-11T09:51:45.908629Z",
+                        "id": null,
+                        "name": "ssn",
+                        "description": "social security number"
+                    }
+                ]
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908701Z",
+                "updatedAt": "2022-06-11T09:51:45.908701Z",
+                "id": "016d48c9-c208-11e9-b026-0ac7f41dfd93",
+                "code": "LNIV",
+                "name": "LNIV Tool Feature",
+                "description": "Lexis Nexis Identity Verification Tool Feature",
+                "category": "tool",
+                "group": "AUTHENTICATION_ALERTS",
+                "requirementType": "mandatory",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": [
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908705Z",
+                        "updatedAt": "2022-06-11T09:51:45.908705Z",
+                        "id": null,
+                        "name": "name",
+                        "description": "first, last, middle, suffix"
+                    },
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908707Z",
+                        "updatedAt": "2022-06-11T09:51:45.908707Z",
+                        "id": null,
+                        "name": "address",
+                        "description": "street1, street2, city, state, zip"
+                    }
+                ]
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908768Z",
+                "updatedAt": "2022-06-11T09:51:45.908768Z",
+                "id": "0177cf5b-6f9f-42cd-9df0-c04f7414787d",
+                "code": "SOCIAL_MONITOR",
+                "name": "Social Media Monitoring from ZeroFOX",
+                "description": "Social Media Monitoring from ZeroFOX",
+                "category": "monitoring",
+                "group": "SOCMED_MONITORING",
+                "requirementType": "optional",
+                "childFeature": true,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": true,
+                "attributes": [
+                    {
+                        "createdAt": "2022-06-11T09:51:45.908772Z",
+                        "updatedAt": "2022-06-11T09:51:45.908772Z",
+                        "id": null,
+                        "name": "name",
+                        "description": "first, last, middle, suffix"
+                    }
+                ]
+            },
+            "config": null
+        },
+        {
+            "feature": {
+                "createdAt": "2022-06-11T09:51:45.908737Z",
+                "updatedAt": "2022-06-11T09:51:45.908737Z",
+                "id": "0171bf0a-f2c9-4e44-93a2-102a9c366cbb",
+                "code": "FP",
+                "name": "Family Plan",
+                "description": "Family Plan",
+                "category": "family plan",
+                "group": "FAMILY_PLAN",
+                "requirementType": "optional",
+                "childFeature": false,
+                "primaryAdultFeature": true,
+                "secondaryAdultFeature": false,
+                "attributes": []
+            },
+            "config": null
+        }
+    ],
+    "family": true,
+    "tier": "Premier Complete",
+    "features": [
+        {
+            "createdAt": "2022-06-11T09:51:45.908731Z",
+            "updatedAt": "2022-06-11T09:51:45.908731Z",
+            "id": "016d48c9-c208-11e9-b026-0ac7f0639f52",
+            "code": "FOURIQ",
+            "name": "4iQ Dark Web Tool Feature",
+            "description": "4iQ Dark Web Surveillance/Monitoring tool",
+            "category": "automatic",
+            "group": "DARK_WEB",
+            "requirementType": "optional",
+            "childFeature": true,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": []
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.90871Z",
+            "updatedAt": "2022-06-11T09:51:45.90871Z",
+            "id": "016d48c9-c208-11e9-b026-0ac7f5f03cf7",
+            "code": "PIPPA",
+            "name": "PIPPA Tool Feature",
+            "description": "Precise ID Personal Protection Alerts Monitoring tool",
+            "category": "tool",
+            "group": "AUTHENTICATION_ALERTS",
+            "requirementType": "mandatory",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": [
+                {
+                    "createdAt": "2022-06-11T09:51:45.908714Z",
+                    "updatedAt": "2022-06-11T09:51:45.908714Z",
+                    "id": null,
+                    "name": "name",
+                    "description": "first, last, middle, suffix"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908716Z",
+                    "updatedAt": "2022-06-11T09:51:45.908716Z",
+                    "id": null,
+                    "name": "address",
+                    "description": "street1, street2, city, state, zip"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908718Z",
+                    "updatedAt": "2022-06-11T09:51:45.908718Z",
+                    "id": null,
+                    "name": "ssn",
+                    "description": "social security number"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.90872Z",
+                    "updatedAt": "2022-06-11T09:51:45.90872Z",
+                    "id": null,
+                    "name": "pid",
+                    "description": "precise identity verification"
+                }
+            ]
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908758Z",
+            "updatedAt": "2022-06-11T09:51:45.908758Z",
+            "id": "5a471a84-5752-4fdd-736a-95bdeb7656f7",
+            "code": "INSURANCE",
+            "name": "1M Insurance",
+            "description": "One Million Identity Theft Insurance",
+            "category": "automatic",
+            "group": "IDENTITY_THEFT_INSURANCE_1MIL",
+            "requirementType": "optional",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": []
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908742Z",
+            "updatedAt": "2022-06-11T09:51:45.908742Z",
+            "id": "016d48c9-c208-11e9-b026-0ac7e3ae9a6e",
+            "code": "CYVEILLANCE",
+            "name": "Cyveillance Tool Feature",
+            "description": "Cyveillance Web Surveillance tool",
+            "category": "tool",
+            "group": "DARK_WEB",
+            "requirementType": "optional",
+            "childFeature": true,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": []
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908673Z",
+            "updatedAt": "2022-06-11T09:51:45.908673Z",
+            "id": "016d48c9-c208-11e9-b026-0ac7e6b713bf",
+            "code": "EFXCM",
+            "name": "Equifax Credit Monitoring Feature",
+            "description": "Equifax One-Bureau Credit Monitoring Feature",
+            "category": "monitoring",
+            "group": "CREDIT_MONITORING_1B",
+            "requirementType": "mandatory",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": [
+                {
+                    "createdAt": "2022-06-11T09:51:45.908682Z",
+                    "updatedAt": "2022-06-11T09:51:45.908682Z",
+                    "id": null,
+                    "name": "dob",
+                    "description": "date of birth"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908678Z",
+                    "updatedAt": "2022-06-11T09:51:45.908678Z",
+                    "id": null,
+                    "name": "name",
+                    "description": "first, last, middle, suffix"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.90868Z",
+                    "updatedAt": "2022-06-11T09:51:45.90868Z",
+                    "id": null,
+                    "name": "address",
+                    "description": "street1, street2, city, state, zip"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908683Z",
+                    "updatedAt": "2022-06-11T09:51:45.908683Z",
+                    "id": null,
+                    "name": "ssn",
+                    "description": "social security number"
+                }
+            ]
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908659Z",
+            "updatedAt": "2022-06-11T09:51:45.908659Z",
+            "id": "016d48c9-c208-11e9-b026-0ac7dca4fcc0",
+            "code": "CREDIT_REPORT",
+            "name": "Credit Report Feature",
+            "description": "Three-Bureau Credit Report",
+            "category": "credit report",
+            "group": "CREDIT_REPORT_3B",
+            "requirementType": "optional",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": [
+                {
+                    "createdAt": "2022-06-11T09:51:45.908667Z",
+                    "updatedAt": "2022-06-11T09:51:45.908667Z",
+                    "id": null,
+                    "name": "dob",
+                    "description": "date of birth"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908663Z",
+                    "updatedAt": "2022-06-11T09:51:45.908663Z",
+                    "id": null,
+                    "name": "name",
+                    "description": "first, last, middle, suffix"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908665Z",
+                    "updatedAt": "2022-06-11T09:51:45.908665Z",
+                    "id": null,
+                    "name": "address",
+                    "description": "street1, street2, city, state, zip"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908669Z",
+                    "updatedAt": "2022-06-11T09:51:45.908669Z",
+                    "id": null,
+                    "name": "ssn",
+                    "description": "social security number"
+                }
+            ]
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908753Z",
+            "updatedAt": "2022-06-11T09:51:45.908753Z",
+            "id": "5a471a36-0906-d7ae-6457-18d96f246365",
+            "code": "RMS",
+            "name": "Risk Management Score",
+            "description": "Risk Management Score",
+            "category": "automatic",
+            "group": "RISK_ASSESSMENT",
+            "requirementType": "optional",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": []
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908639Z",
+            "updatedAt": "2022-06-11T09:51:45.908639Z",
+            "id": "016d48c9-c208-11e9-b026-0ac70422422c",
+            "code": "WALLET_PROTECTION",
+            "name": "Wallet Protection Feature",
+            "description": "Wallet Protection feature",
+            "category": "automatic",
+            "group": "WALLET_PROTECTION",
+            "requirementType": "optional",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": []
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908687Z",
+            "updatedAt": "2022-06-11T09:51:45.908687Z",
+            "id": "016d48c9-c208-11e9-b026-0ac7ee86836e",
+            "code": "EWS",
+            "name": "EWS Tool Feature",
+            "description": "Early Warning System Monitoring tool",
+            "category": "tool",
+            "group": "BANK_ACCOUNT_MONITORING",
+            "requirementType": "mandatory",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": [
+                {
+                    "createdAt": "2022-06-11T09:51:45.908695Z",
+                    "updatedAt": "2022-06-11T09:51:45.908695Z",
+                    "id": null,
+                    "name": "dob",
+                    "description": "date of birth"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908691Z",
+                    "updatedAt": "2022-06-11T09:51:45.908691Z",
+                    "id": null,
+                    "name": "name",
+                    "description": "first, last, middle, suffix"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908693Z",
+                    "updatedAt": "2022-06-11T09:51:45.908693Z",
+                    "id": null,
+                    "name": "address",
+                    "description": "street1, street2, city, state, zip"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908697Z",
+                    "updatedAt": "2022-06-11T09:51:45.908697Z",
+                    "id": null,
+                    "name": "ssn",
+                    "description": "social security number"
+                }
+            ]
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908737Z",
+            "updatedAt": "2022-06-11T09:51:45.908737Z",
+            "id": "0171bf0a-f2c9-4e44-93a2-102a9c366cbb",
+            "code": "FP",
+            "name": "Family Plan",
+            "description": "Family Plan",
+            "category": "family plan",
+            "group": "FAMILY_PLAN",
+            "requirementType": "optional",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": false,
+            "attributes": []
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908724Z",
+            "updatedAt": "2022-06-11T09:51:45.908724Z",
+            "id": "016d48c9-c208-11e9-b026-0ac7ff7dc363",
+            "code": "TUIA",
+            "name": "TUIA Tool Feature",
+            "description": "Trans Union Instant Alerts Monitoring tool",
+            "category": "tool",
+            "group": "CREDIT_MONITORING_3B",
+            "requirementType": "mandatory",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": [
+                {
+                    "createdAt": "2022-06-11T09:51:45.908728Z",
+                    "updatedAt": "2022-06-11T09:51:45.908728Z",
+                    "id": null,
+                    "name": "ssn",
+                    "description": "social security number"
+                }
+            ]
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908748Z",
+            "updatedAt": "2022-06-11T09:51:45.908748Z",
+            "id": "5a4719c6-8a52-da4c-79f2-f3c208afcf08",
+            "code": "THREAT",
+            "name": "Threat Monitoring",
+            "description": "Threat Monitoring",
+            "category": "automatic",
+            "group": "THREAT_ALERTS",
+            "requirementType": "optional",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": []
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908564Z",
+            "updatedAt": "2022-06-11T09:51:45.908564Z",
+            "id": "016d48c9-c208-11e9-b026-0ac701c98277",
+            "code": "TUVS",
+            "name": "TUVS Tool Feature",
+            "description": "TransUnion Vantage Credit Score Tool Feature",
+            "category": "tool",
+            "group": "CREDIT_SCORE",
+            "requirementType": "optional",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": [
+                {
+                    "createdAt": "2022-06-11T09:51:45.908627Z",
+                    "updatedAt": "2022-06-11T09:51:45.908627Z",
+                    "id": null,
+                    "name": "dob",
+                    "description": "date of birth"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908612Z",
+                    "updatedAt": "2022-06-11T09:51:45.908612Z",
+                    "id": null,
+                    "name": "name",
+                    "description": "first, last, middle, suffix"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908625Z",
+                    "updatedAt": "2022-06-11T09:51:45.908625Z",
+                    "id": null,
+                    "name": "address",
+                    "description": "street1, street2, city, state, zip"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908629Z",
+                    "updatedAt": "2022-06-11T09:51:45.908629Z",
+                    "id": null,
+                    "name": "ssn",
+                    "description": "social security number"
+                }
+            ]
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908701Z",
+            "updatedAt": "2022-06-11T09:51:45.908701Z",
+            "id": "016d48c9-c208-11e9-b026-0ac7f41dfd93",
+            "code": "LNIV",
+            "name": "LNIV Tool Feature",
+            "description": "Lexis Nexis Identity Verification Tool Feature",
+            "category": "tool",
+            "group": "AUTHENTICATION_ALERTS",
+            "requirementType": "mandatory",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": [
+                {
+                    "createdAt": "2022-06-11T09:51:45.908705Z",
+                    "updatedAt": "2022-06-11T09:51:45.908705Z",
+                    "id": null,
+                    "name": "name",
+                    "description": "first, last, middle, suffix"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908707Z",
+                    "updatedAt": "2022-06-11T09:51:45.908707Z",
+                    "id": null,
+                    "name": "address",
+                    "description": "street1, street2, city, state, zip"
+                }
+            ]
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908768Z",
+            "updatedAt": "2022-06-11T09:51:45.908768Z",
+            "id": "0177cf5b-6f9f-42cd-9df0-c04f7414787d",
+            "code": "SOCIAL_MONITOR",
+            "name": "Social Media Monitoring from ZeroFOX",
+            "description": "Social Media Monitoring from ZeroFOX",
+            "category": "monitoring",
+            "group": "SOCMED_MONITORING",
+            "requirementType": "optional",
+            "childFeature": true,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": [
+                {
+                    "createdAt": "2022-06-11T09:51:45.908772Z",
+                    "updatedAt": "2022-06-11T09:51:45.908772Z",
+                    "id": null,
+                    "name": "name",
+                    "description": "first, last, middle, suffix"
+                }
+            ]
+        },
+        {
+            "createdAt": "2022-06-11T09:51:45.908646Z",
+            "updatedAt": "2022-06-11T09:51:45.908646Z",
+            "id": "016d48c9-c208-11e9-b026-0ac70613c376",
+            "code": "XPNCM",
+            "name": "XPNCM Tool Feature",
+            "description": "Experian Credit Monitoring Tool Feature",
+            "category": "tool",
+            "group": "CREDIT_MONITORING_3B",
+            "requirementType": "mandatory",
+            "childFeature": false,
+            "primaryAdultFeature": true,
+            "secondaryAdultFeature": true,
+            "attributes": [
+                {
+                    "createdAt": "2022-06-11T09:51:45.908651Z",
+                    "updatedAt": "2022-06-11T09:51:45.908651Z",
+                    "id": null,
+                    "name": "name",
+                    "description": "first, last, middle, suffix"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908653Z",
+                    "updatedAt": "2022-06-11T09:51:45.908653Z",
+                    "id": null,
+                    "name": "address",
+                    "description": "street1, street2, city, state, zip"
+                },
+                {
+                    "createdAt": "2022-06-11T09:51:45.908655Z",
+                    "updatedAt": "2022-06-11T09:51:45.908655Z",
+                    "id": null,
+                    "name": "ssn",
+                    "description": "social security number"
+                }
+            ]
+        }
+    ]
+}

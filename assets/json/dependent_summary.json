@@ -1,0 +1,46 @@
+{
+    "createdAt": "2022-05-23T08:28:01Z",
+    "updatedAt": "2022-06-11T10:45:18Z",
+    "id": "0180f007-be8a-46a3-8036-2c408af6df39",
+    "status": "active",
+    "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+    "maxChildren": null,
+    "maxAdults": null,
+    "participants": [
+        {
+            "createdAt": "2022-06-11T10:45:14Z",
+            "updatedAt": "2022-06-11T10:45:18Z",
+            "id": "0181525e-3403-4781-aa6c-7009d5a2d1d3",
+            "participantType": "adult",
+            "status": "invited",
+            "name": {
+                "first": "Neha",
+                "middle": null,
+                "last": "Kakkad",
+                "suffix": ""
+            },
+            "relationship": "daughter",
+            "emailAddress": "neha-kakkad@yopmail.com",
+            "visible": true
+        },
+        {
+            "createdAt": "2022-06-27T07:03:46Z",
+            "updatedAt": "2022-06-27T07:03:49Z",
+            "id": "0181a3f9-311d-4b51-b464-76c9d4da5013",
+            "participantType": "child",
+            "status": "enrolled",
+            "name": {
+                "first": "Myaaghana",
+                "middle": null,
+                "last": "Dondepudi",
+                "suffix": ""
+            },
+            "birthDate": "2009-04-12",
+            "relationship": "daughter",
+            "ssnLastFour": "8965",
+            "visible": true
+        }
+    ],
+    "isAdultLimitReached": false,
+    "isChildLimitReached": false
+}

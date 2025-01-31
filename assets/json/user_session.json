@@ -1,0 +1,24 @@
+{
+    "accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJpYXQiOjE2NTQ5MzI4NjEsIm5iZiI6MTY1NDkzMjg2MSwiZXhwIjoxNjU0OTMzMDQxLCJzdWIiOiIwMTgwZjAwNi0yMDE1LTQ1YjctYjE5Yi02NjM0NmQwNzhlOGQiLCJqdGkiOiJiMmM4ZDA3ZC05OTZjLTQ1ZWEtYjIyZi0yOTA3Nzc0ZjZhMTgiLCJhbGlhcyI6InByZWNvbWZhbV9pb3NAeW9wbWFpbC5jb20iLCJhdWQiOlsiZmlnbGVhZjpiYWNrZW5kIl0sImF1cmFzdmM6c2Vzc2lvbl9pZCI6IjQ1NWE4MjE0LTlkM2MtNDVjMi05Y2I5LTQ0ZDEzNWE4NWJhYiIsImF1cmFzdmM6ZGlyZWN0b3J5X2tleSI6ImF1cmEiLCJhdXJhc3ZjOmVudGl0bGVtZW50cyI6eyJpdHBzOmlzX2VpZF92ZXJpZmllZCI6dHJ1ZSwiaXRwczpkYXJrX3dlYiI6WyJjeXZlaWxsYW5jZSIsImZvdXJpcSJdLCJpdHBzOmlzX2ZhbWlseSI6dHJ1ZSwiaXRwczpjcmVkaXRfbW9uaXRvcmluZ18zYiI6WyJ0dWlhIiwieHBuY20iXSwiaXRwczpjcmVkaXRfbW9uaXRvcmluZ18xYiI6WyJlZnhjbSJdLCJpdHBzOnRocmVhdF9hbGVydHMiOlsidGhyZWF0Il0sIml0cHM6c29jbWVkX21vbml0b3JpbmciOlsic29jaWFsX21vbml0b3IiXSwiaXRwczppZGVudGl0eV90aGVmdF9pbnN1cmFuY2VfMW1pbCI6WyJpbnN1cmFuY2UiXSwiaXRwczphdXRoZW50aWNhdGlvbl9hbGVydHMiOlsicGlwcGEiLCJsbml2Il0sIml0cHM6YmFua19hY2NvdW50X21vbml0b3JpbmciOlsiZXdzIl0sIml0cHM6Y3JlZGl0X3Njb3JlIjpbInR1dnMiXSwiaXRwczpyaXNrX2Fzc2Vzc21lbnQiOlsicm1zIl0sIml0cHM6Y3JlZGl0X3JlcG9ydF8zYiI6WyJjcmVkaXRfcmVwb3J0Il0sIml0cHM6dmVyaWZpY2F0aW9uIjpbImVpZCJdLCJpdHBzOndhbGxldF9wcm90ZWN0aW9uIjpbIndhbGxldF9wcm90ZWN0aW9uIl0sIml0cHM6dXNlcl9ncm91cHMiOlsicHJpbWFyeSIsInYyX21vbml0b3JlZF9pdGVtcyJdfSwiYXVyYXN2Yzpyb2xlIjoiaWRnX2Zyb250ZW5kX3Nlc3Npb24ifQ.XUXwkTx8BOaW8bRTTdMgXRq4xBocDhehNH3wCS93ZNsFqtV0VJTSQnS2EW51hJU6QeMEIvH08QSkFIXW9Jo7ywBNxWCT0N3g7Bi_YQsWZtHSh5VrLryMHxvZTe5s7HKWf5WucFyH1qzPZ6HoLmcXJlbCzs-FOOda4dw712J7zY32ORUp-ALbfh4ijJWIM-mtB58RhbxwZFG0_BFhkg8F2gzsVnGxfCncGtOypg3d-v647Ot58Z4QZlDpFOaFIykdPquBX9dIAxHkZwxbMyRtHLv6dzpvGAKePX2Y2PlALForUr6WTblojLJV_jgw_uK0-BeU0EoFh4_Mr7mGJ5jRJQ",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE2NTQ5MzM3NjEsImlhdCI6MTY1NDkzMjg2MSwianRpIjoieDIwcjUxazQ3cHRyanc4bDkwbGh0cGtoamJqbjZkeXgifQ.5wltqyouJEbcXXq4yL3RjrklMzqQRzmYZ34j-Uyezgk",
+    "profile": {
+        "identifier": "0180f006-2015-45b7-b19b-66346d078e8d",
+        "emailAddress": "precomfam_ios@yopmail.com",
+        "name": {
+            "first": "John",
+            "middle": null,
+            "last": "Denver",
+            "suffix": ""
+        },
+        "employerGroupName": "",
+        "status": "member",
+        "lastVisitedAt": "2022-06-11T05:48:50Z",
+        "userSince": "2022-05-23T08:26:15Z",
+        "subscriptionId": null,
+        "dependentAdults": [],
+        "dependentChildren": [],
+        "locale": "en-US",
+        "migratedAt": null,
+        "missingPii": []
+    }
+}

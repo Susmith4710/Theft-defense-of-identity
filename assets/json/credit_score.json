@@ -1,0 +1,84 @@
+[
+    {
+        "createdAt": "2022-05-23T08:28:02Z",
+        "updatedAt": "2022-05-23T08:28:02Z",
+        "id": "0180f007-c372-4d3b-a8cd-61fed6ceea17",
+        "score": 701,
+        "status": "calculated",
+        "factors": [
+            {
+                "createdAt": "2022-05-23T08:28:02Z",
+                "updatedAt": "2022-05-23T08:28:02Z",
+                "id": "0180f007-c372-4f6f-9a71-caac3d3e850a",
+                "bureau": "97",
+                "factorType": "negative",
+                "texts": {
+                    "explain": "The VantageScore credit score model relies on information in your credit files at the three national credit reporting companies (Equifax, Experian and TransUnion) to generate your score. Your credit file does not have enough credit behavior information about your loans. A mix of different types of open and active credit accounts can have a positive impact on your credit score.",
+                    "cando": "Maintaining open and active credit accounts in good standing can help improve your credit score.",
+                    "factor": "You have too few credit accounts"
+                }
+            },
+            {
+                "createdAt": "2022-05-23T08:28:02Z",
+                "updatedAt": "2022-05-23T08:28:02Z",
+                "id": "0180f007-c372-4a96-b05b-66dd6742cb15",
+                "bureau": "49",
+                "factorType": "negative",
+                "texts": {
+                    "explain": "Bankcard accounts include credit cards and charge cards from a bank and are frequently revolving accounts. Revolving accounts allow you to carry a balance and your monthly payment will vary, based on the amount of your balance. The VantageScore credit score model relies on information in your credit files at the three national credit reporting companies (Equifax, Experian and TransUnion) to generate your score. Your credit file does not have enough credit behavior information about your bankcard or revolving accounts. A mix of different types of open and active credit accounts, including bankcard and other revolving accounts, can have a positive impact on your credit score.",
+                    "cando": "Maintaining open and active credit accounts in good standing can help improve your credit score.",
+                    "factor": "Lack of sufficient relevant bankcard or revolving account information"
+                }
+            },
+            {
+                "createdAt": "2022-05-23T08:28:02Z",
+                "updatedAt": "2022-05-23T08:28:02Z",
+                "id": "0180f007-c372-4cc8-9e4a-baf406d35113",
+                "bureau": "12",
+                "factorType": "negative",
+                "texts": {
+                    "explain": "Your oldest account is still too recent. A credit file containing older accounts will have a positive impact on your credit score because it demonstrates that you are experienced managing credit.",
+                    "cando": "Don't open more accounts than you actually need. Research shows that new accounts indicate greater risk. Your score will benefit as your accounts get older.",
+                    "factor": "The date that you opened your oldest account is too recent"
+                }
+            },
+            {
+                "createdAt": "2022-05-23T08:28:02Z",
+                "updatedAt": "2022-05-23T08:28:02Z",
+                "id": "0180f007-c372-4710-a8e4-d947c78cca34",
+                "bureau": "10",
+                "factorType": "negative",
+                "texts": {
+                    "explain": "You have had too many accounts with late payments or do not have enough loans to provide sufficient information about your credit behaviors. Late payments are a proven indicator of increased risk. People with late payments are at risk of being overextended, putting existing credit with lenders at risk.",
+                    "cando": "Paying bills on time every month is important to maintaining a good credit score. If you remain behind with any payments, bring them current as soon as possible, and then make future payments on time. Over time, this will have a positive impact on your score.",
+                    "factor": "You have either very few loans or too many loans with delinquencies"
+                }
+            },
+            {
+                "createdAt": "2022-05-23T08:28:02Z",
+                "updatedAt": "2022-05-23T08:28:02Z",
+                "id": "0180f007-c372-4497-9f95-06105ee93bab",
+                "bureau": "P90",
+                "factorType": "positive",
+                "texts": {
+                    "explain": "You have one or more bankruptcies on your credit report. However, they have been discharged.",
+                    "cando": "Make all future payments on time. The impact on your credit score from the bankruptcy will diminish over time.",
+                    "factor": "You have one or more discharged bankruptcies."
+                }
+            },
+            {
+                "createdAt": "2022-05-23T08:28:02Z",
+                "updatedAt": "2022-05-23T08:28:02Z",
+                "id": "0180f007-c372-4dbf-b309-782f3d264a26",
+                "bureau": "P93",
+                "factorType": "positive",
+                "texts": {
+                    "explain": "Paying your bills on time improves your score. You have paid all your student loans on time or no more than 30 days late.",
+                    "cando": "Keep paying bills on time every month since it is important for maintaining a good credit score. If you remain behind with any payments, bring them current as soon as possible, and then make future payments on time. Over time, this will have a positive impact on your score.",
+                    "factor": "No student loan accounts with a severe delinquency or derogatory status."
+                }
+            }
+        ],
+        "descriptor": "fair"
+    }
+]

@@ -1,0 +1,53 @@
+{
+    "plan": {
+        "code": "premcomfam",
+        "name": "Premier Complete Family",
+        "tier": "Premier Complete",
+        "family": true,
+        "maxAdults": null,
+        "maxChildren": null,
+        "features": [
+            "dark_web",
+            "wallet_protection",
+            "credit_score",
+            "authentication_alerts",
+            "risk_assessment",
+            "credit_report_3b",
+            "bank_account_monitoring",
+            "socmed_monitoring",
+            "threat_alerts",
+            "credit_monitoring_1b",
+            "credit_monitoring_3b",
+            "family_plan",
+            "identity_theft_insurance_1mil"
+        ]
+    },
+    "offer": {
+        "billingType": "retail cc billed",
+        "offerType": "enrollment only",
+        "code": "auzle28qyv",
+        "price": 1499,
+        "retailPrice": 0,
+        "trialPrice": 0,
+        "trialDuration": 30,
+        "hasTrial": true,
+        "hasPaidTrial": false,
+        "hasFreeTrial": true,
+        "customerBilled": true,
+        "customerPrice": 1499,
+        "subscriptionPlan": {
+            "code": "pdr1",
+            "termLength": 1,
+            "termName": "MONTHLY",
+            "termDescription": "month"
+        },
+        "description": "30 days free then 14.99",
+        "brandCode": "iddefense"
+    },
+    "group": {
+        "code": "iddefense",
+        "name": "Identity Defense Company",
+        "type": "dtc"
+    },
+    "isUserInTrial": false
+}

@@ -1,0 +1,200 @@
+{
+    "months": [
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744153Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744201Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744262Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.74434Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744392Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744432Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        }
+    ],
+    "weeks": [
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744549Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744588Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744625Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744658Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        },
+        {
+            "createdAt": "2022-06-12T12:06:49.744693Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 0,
+            "descriptor": "poor",
+            "ms": 0,
+            "rms": 0
+        }
+    ],
+    "days": [
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        },
+        {
+            "createdAt": "2022-05-23T08:28:04Z",
+            "userId": "0180f006-2015-45b7-b19b-66346d078e8d",
+            "as": 99,
+            "descriptor": "excellent",
+            "ms": 0,
+            "rms": 99
+        }
+    ]
+}

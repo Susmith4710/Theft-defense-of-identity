@@ -1,0 +1,2015 @@
+[
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce30-4500-b760-090ea849f86e",
+            "label": "Which term best describes your current job?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:43Z",
+            "description": "Some jobs are targeted by cybercriminals more than others and this factor is taken into account when assessing your risk.",
+            "group": {
+                "id": 1,
+                "name": "Personal Info",
+                "description": "Sharing personal information can significantly impact the likelihood of you becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 220,
+                    "label": "Construction/Trade"
+                },
+                {
+                    "id": 219,
+                    "label": "Educator"
+                },
+                {
+                    "id": 221,
+                    "label": "Executive"
+                },
+                {
+                    "id": 214,
+                    "label": "Finance"
+                },
+                {
+                    "id": 226,
+                    "label": "Homemaker"
+                },
+                {
+                    "id": 229,
+                    "label": "Human Resources"
+                },
+                {
+                    "id": 218,
+                    "label": "Journalist/Media"
+                },
+                {
+                    "id": 225,
+                    "label": "Law Enforcement"
+                },
+                {
+                    "id": 215,
+                    "label": "Legal"
+                },
+                {
+                    "id": 216,
+                    "label": "Management"
+                },
+                {
+                    "id": 222,
+                    "label": "Medical"
+                },
+                {
+                    "id": 224,
+                    "label": "Retail"
+                },
+                {
+                    "id": 227,
+                    "label": "Retired"
+                },
+                {
+                    "id": 223,
+                    "label": "Sales & Marketing"
+                },
+                {
+                    "id": 217,
+                    "label": "Self-Employed/Independent"
+                },
+                {
+                    "id": 213,
+                    "label": "Technology"
+                },
+                {
+                    "id": 228,
+                    "label": "Seeking Employment"
+                },
+                {
+                    "id": 230,
+                    "label": "Other"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 230,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce30-4eb5-9a4c-3df9d761c073",
+            "label": "In which of the following industries do you work?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-07-11T01:44:35Z",
+            "description": "Criminals target certain industries more than others and this factor is taken into account when assessing your risk.",
+            "group": {
+                "id": 1,
+                "name": "Personal Info",
+                "description": "Sharing personal information can significantly impact the likelihood of you becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 236,
+                    "label": "Education"
+                },
+                {
+                    "id": 233,
+                    "label": "Financial"
+                },
+                {
+                    "id": 239,
+                    "label": "Government"
+                },
+                {
+                    "id": 234,
+                    "label": "Healthcare"
+                },
+                {
+                    "id": 242,
+                    "label": "Law Enforcement"
+                },
+                {
+                    "id": 235,
+                    "label": "Media"
+                },
+                {
+                    "id": 238,
+                    "label": "Military"
+                },
+                {
+                    "id": 232,
+                    "label": "Public Policy"
+                },
+                {
+                    "id": 241,
+                    "label": "Retail/Food Services"
+                },
+                {
+                    "id": 231,
+                    "label": "Technology"
+                },
+                {
+                    "id": 237,
+                    "label": "Trade"
+                },
+                {
+                    "id": 240,
+                    "label": "Utilities/Gas/Coal"
+                },
+                {
+                    "id": 244,
+                    "label": "Other"
+                },
+                {
+                    "id": 243,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 244,
+            "noneId": 243,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce31-453c-8433-0250119ffc80",
+            "label": "How many individuals under the age of 18 do you have living with you at home?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:42Z",
+            "description": "Young people aren't necessarily aware of the different ways they put themselves and their family at risk for identity theft. The number of minors in your household increases the likelihood that your data could be stolen or compromised.",
+            "group": {
+                "id": 1,
+                "name": "Personal Info",
+                "description": "Sharing personal information can significantly impact the likelihood of you becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {
+                "display": "slider"
+            },
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 253,
+                    "label": "0"
+                },
+                {
+                    "id": 254,
+                    "label": "1"
+                },
+                {
+                    "id": 255,
+                    "label": "2"
+                },
+                {
+                    "id": 256,
+                    "label": "3"
+                },
+                {
+                    "id": 257,
+                    "label": "4"
+                },
+                {
+                    "id": 258,
+                    "label": "5"
+                },
+                {
+                    "id": 259,
+                    "label": "6"
+                },
+                {
+                    "id": 290,
+                    "label": "7+"
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "015d804d-4a03-47f5-b7a6-a62c9c5cb92d",
+            "label": "How many adults (beside yourself) are living with you at home?",
+            "createdAt": "2017-07-29T06:07:27Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "group": {
+                "id": 1,
+                "name": "Personal Info",
+                "description": "Sharing personal information can significantly impact the likelihood of you becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 422,
+                    "label": "0"
+                },
+                {
+                    "id": 423,
+                    "label": "1"
+                },
+                {
+                    "id": 424,
+                    "label": "2"
+                },
+                {
+                    "id": 425,
+                    "label": "3"
+                },
+                {
+                    "id": 426,
+                    "label": "4"
+                },
+                {
+                    "id": 427,
+                    "label": "5"
+                },
+                {
+                    "id": 428,
+                    "label": "6"
+                },
+                {
+                    "id": 429,
+                    "label": "7+"
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce2f-4340-a12a-812def93fb48",
+            "label": "What is your annual household income?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Relative to where you live, your household income is a factor in how likely your identity could be stolen or compromised.",
+            "group": {
+                "id": 1,
+                "name": "Personal Info",
+                "description": "Sharing personal information can significantly impact the likelihood of you becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 97,
+                    "label": "Under $25,000"
+                },
+                {
+                    "id": 98,
+                    "label": "$25,000 - $49,999"
+                },
+                {
+                    "id": 99,
+                    "label": "$50,000 - $74,999"
+                },
+                {
+                    "id": 100,
+                    "label": "$75,000 - $99,999"
+                },
+                {
+                    "id": 101,
+                    "label": "$100,000 - $149,999"
+                },
+                {
+                    "id": 102,
+                    "label": "$150,000 - $249,999"
+                },
+                {
+                    "id": 103,
+                    "label": "Over $250,000"
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "015d84fa-d0f2-43b8-a185-8619cdab6ba6",
+            "label": "I have been the victim of identity theft in the past:",
+            "createdAt": "2017-07-31T18:07:41Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "I have been the victim of identity theft in the past",
+            "group": {
+                "id": 1,
+                "name": "Personal Info",
+                "description": "Sharing personal information can significantly impact the likelihood of you becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 437,
+                    "label": "6 Months"
+                },
+                {
+                    "id": 438,
+                    "label": "1 Year"
+                },
+                {
+                    "id": 439,
+                    "label": "2 Years"
+                },
+                {
+                    "id": 440,
+                    "label": "Never"
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "015d84fa-d0ff-473a-b505-0a092943414a",
+            "label": "I have been the victim of credit card fraud in the past:",
+            "createdAt": "2017-07-31T18:07:41Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "I have been the victim of credit card fraud in the past",
+            "group": {
+                "id": 1,
+                "name": "Personal Info",
+                "description": "Sharing personal information can significantly impact the likelihood of you becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 458,
+                    "label": "6 Months"
+                },
+                {
+                    "id": 459,
+                    "label": "1 Year"
+                },
+                {
+                    "id": 460,
+                    "label": "2 Years"
+                },
+                {
+                    "id": 461,
+                    "label": "Never"
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "015d84fa-d100-4319-8aed-d4e0c2c1c20c",
+            "label": "I have been the victim of other financial crime in the past:",
+            "createdAt": "2017-07-31T18:07:41Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "I have been the victim of other financial crime in the past",
+            "group": {
+                "id": 1,
+                "name": "Personal Info",
+                "description": "Sharing personal information can significantly impact the likelihood of you becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 462,
+                    "label": "6 Months"
+                },
+                {
+                    "id": 463,
+                    "label": "1 Year"
+                },
+                {
+                    "id": 464,
+                    "label": "2 Years"
+                },
+                {
+                    "id": 465,
+                    "label": "Never"
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "015d84fa-d102-4bd5-9e59-8da528a084a8",
+            "label": "I have been the victim of a data breach in the past:",
+            "createdAt": "2017-07-31T18:07:41Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "I have been the victim of a data breach in the past",
+            "group": {
+                "id": 1,
+                "name": "Personal Info",
+                "description": "Sharing personal information can significantly impact the likelihood of you becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 466,
+                    "label": "6 Months"
+                },
+                {
+                    "id": 467,
+                    "label": "1 Year"
+                },
+                {
+                    "id": 468,
+                    "label": "2 Years"
+                },
+                {
+                    "id": 469,
+                    "label": "Never"
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce31-4356-ae77-ac2e80baa28e",
+            "label": "What internet browsers do you use?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:42Z",
+            "description": "Browsers, just like other software applications, can be vulnerable to attack. Knowing which browsers you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 23,
+                    "label": "Chrome"
+                },
+                {
+                    "id": 25,
+                    "label": "Firefox"
+                },
+                {
+                    "id": 26,
+                    "label": "Internet Explorer"
+                },
+                {
+                    "id": 341,
+                    "label": "Microsoft Edge"
+                },
+                {
+                    "id": 27,
+                    "label": "Opera"
+                },
+                {
+                    "id": 28,
+                    "label": "Safari"
+                },
+                {
+                    "id": 29,
+                    "label": "Other"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 29,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce31-469f-91eb-1a75dc43a2da",
+            "label": "What Internet Service Providers do you use?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:42Z",
+            "description": "ISPs are the backbone of the internet. Whether you access the internet at home or on a mobile device, your data is being transmitted through commercial networks. Knowing which ISPs you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 62,
+                    "label": "AOL"
+                },
+                {
+                    "id": 63,
+                    "label": "AT&T"
+                },
+                {
+                    "id": 64,
+                    "label": "CenturyLink"
+                },
+                {
+                    "id": 65,
+                    "label": "Charter"
+                },
+                {
+                    "id": 66,
+                    "label": "Comcast"
+                },
+                {
+                    "id": 67,
+                    "label": "Cox Communications"
+                },
+                {
+                    "id": 70,
+                    "label": "EarthLink"
+                },
+                {
+                    "id": 71,
+                    "label": "NetZero"
+                },
+                {
+                    "id": 72,
+                    "label": "Sprint"
+                },
+                {
+                    "id": 73,
+                    "label": "Time Warner Cable"
+                },
+                {
+                    "id": 74,
+                    "label": "T-Mobile"
+                },
+                {
+                    "id": 75,
+                    "label": "Verizon FiOS"
+                },
+                {
+                    "id": 293,
+                    "label": "Verizon Wireless"
+                },
+                {
+                    "id": 76,
+                    "label": "Other"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 76,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce31-42e1-8138-9d7024e00cab",
+            "label": "What operating systems do you use?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:42Z",
+            "description": "Certain operating systems are more vulnerable to cyberattacks than others. Knowing which platforms you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 57,
+                    "label": "Apple iOS"
+                },
+                {
+                    "id": 54,
+                    "label": "Apple macOS"
+                },
+                {
+                    "id": 59,
+                    "label": "BlackBerry"
+                },
+                {
+                    "id": 58,
+                    "label": "Google Chrome OS"
+                },
+                {
+                    "id": 56,
+                    "label": "Google Android"
+                },
+                {
+                    "id": 55,
+                    "label": "Linux/Unix"
+                },
+                {
+                    "id": 53,
+                    "label": "Microsoft Windows"
+                },
+                {
+                    "id": 60,
+                    "label": "Microsoft Windows Mobile"
+                },
+                {
+                    "id": 61,
+                    "label": "Other"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 61,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "0156d85d-7552-47b6-9839-498bc9f65aad",
+            "label": "Does anyone in your household use a desktop made by any of these manufacturers?",
+            "createdAt": "2016-09-14T06:00:46Z",
+            "updatedAt": "2017-08-01T20:23:16Z",
+            "description": "Some desktops made by certain manufacturers are more vulnerable to cyberattacks than others. Knowing which devices you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 301,
+                    "label": "Acer"
+                },
+                {
+                    "id": 294,
+                    "label": "Apple"
+                },
+                {
+                    "id": 302,
+                    "label": "Asus"
+                },
+                {
+                    "id": 303,
+                    "label": "Dell"
+                },
+                {
+                    "id": 304,
+                    "label": "HP"
+                },
+                {
+                    "id": 305,
+                    "label": "Lenovo"
+                },
+                {
+                    "id": 306,
+                    "label": "Samsung"
+                },
+                {
+                    "id": 307,
+                    "label": "Toshiba"
+                },
+                {
+                    "id": 342,
+                    "label": "Other"
+                },
+                {
+                    "id": 348,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 342,
+            "noneId": 348,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "015d99fd-36b6-410f-ac2f-718ce9a1246d",
+            "label": "Does anyone in your household use a laptop made by any of these manufacturers?",
+            "createdAt": "2017-08-01T20:23:16Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Does anyone in your household use a laptop made by any of these manufacturers",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 301,
+                    "label": "Acer"
+                },
+                {
+                    "id": 294,
+                    "label": "Apple"
+                },
+                {
+                    "id": 302,
+                    "label": "Asus"
+                },
+                {
+                    "id": 303,
+                    "label": "Dell"
+                },
+                {
+                    "id": 304,
+                    "label": "HP"
+                },
+                {
+                    "id": 305,
+                    "label": "Lenovo"
+                },
+                {
+                    "id": 306,
+                    "label": "Samsung"
+                },
+                {
+                    "id": 307,
+                    "label": "Toshiba"
+                },
+                {
+                    "id": 342,
+                    "label": "Other"
+                },
+                {
+                    "id": 348,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 342,
+            "noneId": 348,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "0156d85d-7552-4f20-8663-45ce06ca3ae1",
+            "label": "Does anyone in your household use a tablet made by any of these manufacturers?",
+            "createdAt": "2016-09-14T06:00:46Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Some tablets made by certain manufacturers are more vulnerable to cyberattacks than others. Knowing which devices you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 295,
+                    "label": "Apple iPad"
+                },
+                {
+                    "id": 296,
+                    "label": "Amazon Kindle"
+                },
+                {
+                    "id": 297,
+                    "label": "Android tablet"
+                },
+                {
+                    "id": 298,
+                    "label": "Windows tablet"
+                },
+                {
+                    "id": 343,
+                    "label": "Other"
+                },
+                {
+                    "id": 349,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 343,
+            "noneId": 349,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "0156d85d-7552-4e37-966e-dfed7cd476ce",
+            "label": "Do you use a router made by any of these manufacturers?",
+            "createdAt": "2016-09-14T06:00:46Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Some routers made by certain manufacturers are more vulnerable to cyberattacks than others. Knowing which devices you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 308,
+                    "label": "Belkin"
+                },
+                {
+                    "id": 309,
+                    "label": "Linksys"
+                },
+                {
+                    "id": 310,
+                    "label": "Netgear"
+                },
+                {
+                    "id": 344,
+                    "label": "Other"
+                },
+                {
+                    "id": 350,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 344,
+            "noneId": 350,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "0156d85d-7553-4e06-b7f4-d57771e26ca9",
+            "label": "Do you use any of these wearables or fitness trackers?",
+            "createdAt": "2016-09-14T06:00:46Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Some models of wearables and fitness trackers may inadequately protect your data or fail to keep it private. Knowing what brands you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 311,
+                    "label": "Apple Watch"
+                },
+                {
+                    "id": 312,
+                    "label": "Fitbit"
+                },
+                {
+                    "id": 313,
+                    "label": "Garmin fitness tracker"
+                },
+                {
+                    "id": 314,
+                    "label": "Jawbone fitness tracker"
+                },
+                {
+                    "id": 345,
+                    "label": "Other"
+                },
+                {
+                    "id": 351,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 345,
+            "noneId": 351,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "0156d85d-7553-454f-94b2-fda38f2298a2",
+            "label": "Do you use any of these password managers?",
+            "createdAt": "2016-09-14T06:00:46Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Although password managers are useful and convenient, they are vulnerable to cyberattacks just like any other software application. Knowing which password managers you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 315,
+                    "label": "1Password"
+                },
+                {
+                    "id": 316,
+                    "label": "Authentic8"
+                },
+                {
+                    "id": 317,
+                    "label": "Dashlane"
+                },
+                {
+                    "id": 318,
+                    "label": "KeePass"
+                },
+                {
+                    "id": 319,
+                    "label": "Keeper"
+                },
+                {
+                    "id": 320,
+                    "label": "LastPass"
+                },
+                {
+                    "id": 321,
+                    "label": "LogmeOnce"
+                },
+                {
+                    "id": 322,
+                    "label": "Password Genie"
+                },
+                {
+                    "id": 323,
+                    "label": "RoboForm"
+                },
+                {
+                    "id": 299,
+                    "label": "SafeConnex"
+                },
+                {
+                    "id": 324,
+                    "label": "Sticky Password"
+                },
+                {
+                    "id": 325,
+                    "label": "Zoho Vault"
+                },
+                {
+                    "id": 346,
+                    "label": "Other"
+                },
+                {
+                    "id": 352,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 346,
+            "noneId": 352,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "0156d85d-7553-4d26-8c34-762d38dbef34",
+            "label": "Which antivirus or anti-malware software do you use?",
+            "createdAt": "2016-09-14T06:00:46Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Although antivirus and anti-malware applications help prevent, detect,  and remove malicious software, they are vulnerable to cyberattacks just like any other application. Knowing which products you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 326,
+                    "label": "Avast"
+                },
+                {
+                    "id": 327,
+                    "label": "Bitdefender"
+                },
+                {
+                    "id": 328,
+                    "label": "F-Secure"
+                },
+                {
+                    "id": 329,
+                    "label": "Kaspersky"
+                },
+                {
+                    "id": 330,
+                    "label": "Malwarebytes"
+                },
+                {
+                    "id": 331,
+                    "label": "McAfee"
+                },
+                {
+                    "id": 332,
+                    "label": "Microsoft Windows Defender"
+                },
+                {
+                    "id": 333,
+                    "label": "Norton"
+                },
+                {
+                    "id": 334,
+                    "label": "Panda"
+                },
+                {
+                    "id": 335,
+                    "label": "Trend Micro"
+                },
+                {
+                    "id": 347,
+                    "label": "Other"
+                },
+                {
+                    "id": 353,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 347,
+            "noneId": 353,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce31-4f82-9d63-7b68e2081de7",
+            "label": "What networks do you use to access the internet?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Accessing the internet through insecure or unknown networks may increase the likelihood that your identity could be stolen or compromised.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 8,
+                    "label": "Airports"
+                },
+                {
+                    "id": 3,
+                    "label": "Cellular network"
+                },
+                {
+                    "id": 5,
+                    "label": "Retailer-provided WiFi (e.g. Starbucks)"
+                },
+                {
+                    "id": 1,
+                    "label": "Home"
+                },
+                {
+                    "id": 7,
+                    "label": "Hotels"
+                },
+                {
+                    "id": 4,
+                    "label": "Private VPN"
+                },
+                {
+                    "id": 300,
+                    "label": "School"
+                },
+                {
+                    "id": 2,
+                    "label": "Work"
+                },
+                {
+                    "id": 6,
+                    "label": "Any open network"
+                },
+                {
+                    "id": 9,
+                    "label": "Other"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 9,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce32-44c0-b06f-75ba19efc466",
+            "label": "What email providers do you use?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Email providers are often targeted by cybercriminals for phishing schemes and other types of attacks. Knowing what type of email accounts you have helps us to send you targeted alerts and advice.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 77,
+                    "label": "AOL"
+                },
+                {
+                    "id": 78,
+                    "label": "Gmail"
+                },
+                {
+                    "id": 79,
+                    "label": "Hotmail"
+                },
+                {
+                    "id": 80,
+                    "label": "iCloud"
+                },
+                {
+                    "id": 82,
+                    "label": "Yahoo!"
+                },
+                {
+                    "id": 85,
+                    "label": "ISP-provided email"
+                },
+                {
+                    "id": 86,
+                    "label": "Personal domain email"
+                },
+                {
+                    "id": 87,
+                    "label": "School-provided email"
+                },
+                {
+                    "id": 88,
+                    "label": "Work-provided email"
+                },
+                {
+                    "id": 89,
+                    "label": "Other"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 89,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce31-4716-996f-e379c0d6bdb8",
+            "label": "How do you use the internet?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2017-08-02T19:22:55Z",
+            "description": "Some online activities are more dangerous than others because they are often targeted by cybercriminals, which may put your identity at risk.",
+            "group": {
+                "id": 2,
+                "name": "Technology & Internet",
+                "description": "The technology, software, devices, and platforms you utilize to access the internet are all easy identity theft targets. These vulnerabilities could put your information at risk."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 20,
+                    "label": "Banking/Paying Bills"
+                },
+                {
+                    "id": 19,
+                    "label": "Blogging"
+                },
+                {
+                    "id": 14,
+                    "label": "Downloading Apps or Music"
+                },
+                {
+                    "id": 15,
+                    "label": "Emailing"
+                },
+                {
+                    "id": 17,
+                    "label": "Gambling"
+                },
+                {
+                    "id": 16,
+                    "label": "Gaming"
+                },
+                {
+                    "id": 21,
+                    "label": "Instant Messaging"
+                },
+                {
+                    "id": 11,
+                    "label": "News & Weather"
+                },
+                {
+                    "id": 10,
+                    "label": "Online Storage"
+                },
+                {
+                    "id": 18,
+                    "label": "Shopping"
+                },
+                {
+                    "id": 12,
+                    "label": "Social Network/Dating Sites"
+                },
+                {
+                    "id": 13,
+                    "label": "Video Chat"
+                },
+                {
+                    "id": 22,
+                    "label": "Other"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 22,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce2f-4d70-a0a2-c4678dd8710c",
+            "label": "Which financial institutions have you created accounts with over the last 10 years?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-07-11T01:44:35Z",
+            "description": "The number and types of financial accounts you've had over the last 10 years could increase your risk of identity theft.",
+            "group": {
+                "id": 3,
+                "name": "Finance",
+                "description": "Your risk of identity theft may increase depending on the number and types of bank accounts and credit cards you have."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 105,
+                    "label": "American Express"
+                },
+                {
+                    "id": 284,
+                    "label": "Apple Pay"
+                },
+                {
+                    "id": 106,
+                    "label": "Bank of America"
+                },
+                {
+                    "id": 107,
+                    "label": "BB&T"
+                },
+                {
+                    "id": 108,
+                    "label": "Capital One"
+                },
+                {
+                    "id": 109,
+                    "label": "Charles Schwab"
+                },
+                {
+                    "id": 110,
+                    "label": "Citibank"
+                },
+                {
+                    "id": 111,
+                    "label": "Discover"
+                },
+                {
+                    "id": 112,
+                    "label": "e*Trade"
+                },
+                {
+                    "id": 114,
+                    "label": "Goldman Sachs"
+                },
+                {
+                    "id": 285,
+                    "label": "Google Wallet"
+                },
+                {
+                    "id": 175,
+                    "label": "H&R Block"
+                },
+                {
+                    "id": 115,
+                    "label": "HSBC"
+                },
+                {
+                    "id": 116,
+                    "label": "ING/Voya"
+                },
+                {
+                    "id": 117,
+                    "label": "JP Morgan Chase"
+                },
+                {
+                    "id": 118,
+                    "label": "Merrill Lynch"
+                },
+                {
+                    "id": 119,
+                    "label": "Morgan Stanley"
+                },
+                {
+                    "id": 120,
+                    "label": "PayPal"
+                },
+                {
+                    "id": 286,
+                    "label": "Samsung Pay"
+                },
+                {
+                    "id": 287,
+                    "label": "Scottrade"
+                },
+                {
+                    "id": 122,
+                    "label": "SunTrust"
+                },
+                {
+                    "id": 179,
+                    "label": "TaxAct"
+                },
+                {
+                    "id": 288,
+                    "label": "TaxSlayer"
+                },
+                {
+                    "id": 123,
+                    "label": "TD Bank"
+                },
+                {
+                    "id": 180,
+                    "label": "TurboTax"
+                },
+                {
+                    "id": 129,
+                    "label": "USAA Bank"
+                },
+                {
+                    "id": 124,
+                    "label": "U.S. Bancorp"
+                },
+                {
+                    "id": 125,
+                    "label": "Wells Fargo"
+                },
+                {
+                    "id": 131,
+                    "label": "Other"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 131,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce31-4213-926c-c29cdb616fb4",
+            "label": "How many websites (not including financial institutions) do you use that require login credentials?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:42Z",
+            "description": "Many websites require you to establish login credentials when you create a new account. If you use the same username and password across multiple websites, your risk of identity theft could increase. Knowing which accounts you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 4,
+                "name": "Shopping",
+                "description": "Providing us information about where you shop and what types of services you subscribe to helps us evaluate your risk of identity theft."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 49,
+                    "label": "I can count them on one hand."
+                },
+                {
+                    "id": 50,
+                    "label": "More than a handful."
+                },
+                {
+                    "id": 51,
+                    "label": "I'd have to count on my fingers and toes."
+                },
+                {
+                    "id": 52,
+                    "label": "More than I can count."
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce2f-4b38-a493-86141150d4d8",
+            "label": "Which of the following online services and/or subscriptions do you currently use?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-07-11T01:44:35Z",
+            "description": "The number and types of online services you use or subscribe to may increase your risk of identity theft.",
+            "group": {
+                "id": 4,
+                "name": "Shopping",
+                "description": "Providing us information about where you shop and what types of services you subscribe to helps us evaluate your risk of identity theft."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 166,
+                    "label": "HBO GO"
+                },
+                {
+                    "id": 176,
+                    "label": "Hulu"
+                },
+                {
+                    "id": 167,
+                    "label": "iTunes"
+                },
+                {
+                    "id": 168,
+                    "label": "Netflix"
+                },
+                {
+                    "id": 169,
+                    "label": "Pandora"
+                },
+                {
+                    "id": 170,
+                    "label": "PlayStation Plus"
+                },
+                {
+                    "id": 171,
+                    "label": "SiriusXM"
+                },
+                {
+                    "id": 172,
+                    "label": "Skype"
+                },
+                {
+                    "id": 173,
+                    "label": "Spotify"
+                },
+                {
+                    "id": 178,
+                    "label": "Steam"
+                },
+                {
+                    "id": 355,
+                    "label": "WhatsApp"
+                },
+                {
+                    "id": 181,
+                    "label": "WordPress"
+                },
+                {
+                    "id": 174,
+                    "label": "XBOX Live"
+                },
+                {
+                    "id": 183,
+                    "label": "Other"
+                },
+                {
+                    "id": 182,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 183,
+            "noneId": 182,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce30-4ef4-9c0a-14f1b0343551",
+            "label": "Where do you shop (either online or in stores)?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:42Z",
+            "description": "Companies that store your data may become victims of cybercrime, which could increase the likelihood that your identity is stolen or compromised.",
+            "group": {
+                "id": 4,
+                "name": "Shopping",
+                "description": "Providing us information about where you shop and what types of services you subscribe to helps us evaluate your risk of identity theft."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 137,
+                    "label": "Amazon"
+                },
+                {
+                    "id": 141,
+                    "label": "Craigslist"
+                },
+                {
+                    "id": 143,
+                    "label": "eBay"
+                },
+                {
+                    "id": 145,
+                    "label": "Home Depot"
+                },
+                {
+                    "id": 158,
+                    "label": "JCPenney"
+                },
+                {
+                    "id": 147,
+                    "label": "Lowe's"
+                },
+                {
+                    "id": 159,
+                    "label": "Macy's"
+                },
+                {
+                    "id": 340,
+                    "label": "Neiman Marcus"
+                },
+                {
+                    "id": 160,
+                    "label": "Nordstrom"
+                },
+                {
+                    "id": 152,
+                    "label": "Sears"
+                },
+                {
+                    "id": 153,
+                    "label": "Target"
+                },
+                {
+                    "id": 155,
+                    "label": "Walmart"
+                },
+                {
+                    "id": 164,
+                    "label": "Other"
+                },
+                {
+                    "id": 163,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 164,
+            "noneId": 163,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce31-4883-a1b7-b85ffec5f805",
+            "label": "Which of the following health insurance providers have you used in the last 10 years?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:42Z",
+            "description": "Criminals target high value information, such as that gathered and stored by insurance providers. Knowing which companies you are or have been insured by helps us calculate how likely your identity could be stolen or compromised.",
+            "group": {
+                "id": 5,
+                "name": "Healthcare",
+                "description": "Healthcare companies, which collect and store very personal information, could become victims of cybercrime. Tell us which insurers you have policies with to help us assess your risk of identity theft."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 197,
+                    "label": "Aetna"
+                },
+                {
+                    "id": 198,
+                    "label": "Anthem"
+                },
+                {
+                    "id": 199,
+                    "label": "Blue Cross Blue Shield"
+                },
+                {
+                    "id": 289,
+                    "label": "Centene"
+                },
+                {
+                    "id": 201,
+                    "label": "Cigna"
+                },
+                {
+                    "id": 354,
+                    "label": "Highmark"
+                },
+                {
+                    "id": 203,
+                    "label": "Humana"
+                },
+                {
+                    "id": 204,
+                    "label": "Kaiser Permanente"
+                },
+                {
+                    "id": 209,
+                    "label": "Medicare/Medicaid"
+                },
+                {
+                    "id": 206,
+                    "label": "UnitedHealthcare"
+                },
+                {
+                    "id": 212,
+                    "label": "Other"
+                },
+                {
+                    "id": 211,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 212,
+            "noneId": 211,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce30-4427-932e-2487f4bd160c",
+            "label": "Do you rent or own your primary home?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:42Z",
+            "description": "There are risks associated with both renting and owning a home. In both instances, you disclose personal information to third parties that may not follow best practices when protecting your data. In addition, some homeownership information is a matter of public record, which may increase your risk of identity theft.",
+            "group": {
+                "id": 6,
+                "name": "Home & Travel",
+                "description": "The more insurers and services you use at home and while traveling, the more likely you may become a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 249,
+                    "label": "Rent"
+                },
+                {
+                    "id": 250,
+                    "label": "Own"
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce2f-4170-b23a-4e8f2b7acfbc",
+            "label": "On average, what percent of your time is spent traveling outside of your primary home/work area?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:41Z",
+            "description": "Every time you travel - for work or for pleasure - your personal information is being shared with companies. The more you travel, the more likely your information could be stolen or compromised.",
+            "group": {
+                "id": 6,
+                "name": "Home & Travel",
+                "description": "The more insurers and services you use at home and while traveling, the more likely you may become a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": true,
+            "options": [
+                {
+                    "id": 245,
+                    "label": "Less than 10% of my time traveling."
+                },
+                {
+                    "id": 246,
+                    "label": "10% - 24% of my time traveling."
+                },
+                {
+                    "id": 247,
+                    "label": "25% - 49% of my time traveling."
+                },
+                {
+                    "id": 248,
+                    "label": "50% + of my time traveling."
+                }
+            ],
+            "includesOther": false,
+            "includesNone": false
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce30-4f30-af2c-46c854bb9b7a",
+            "label": "Which of the following car and home insurance providers have you used in the last 10 years?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2016-09-14T06:00:42Z",
+            "description": "Criminals target high value information, such as that gathered and stored by insurance providers. Knowing which companies you are or have been insured by helps us calculate how likely your identity could be stolen or compromised.",
+            "group": {
+                "id": 6,
+                "name": "Home & Travel",
+                "description": "The more insurers and services you use at home and while traveling, the more likely you may become a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 184,
+                    "label": "Allstate"
+                },
+                {
+                    "id": 185,
+                    "label": "Farmers"
+                },
+                {
+                    "id": 186,
+                    "label": "GEICO"
+                },
+                {
+                    "id": 188,
+                    "label": "Liberty Mutual"
+                },
+                {
+                    "id": 190,
+                    "label": "Nationwide"
+                },
+                {
+                    "id": 191,
+                    "label": "Progressive"
+                },
+                {
+                    "id": 192,
+                    "label": "State Farm"
+                },
+                {
+                    "id": 193,
+                    "label": "Travelers"
+                },
+                {
+                    "id": 194,
+                    "label": "USAA Insurance"
+                },
+                {
+                    "id": 196,
+                    "label": "Other"
+                },
+                {
+                    "id": 195,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 196,
+            "noneId": 195,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "014db9b4-ce30-4b45-9246-278df17027bb",
+            "label": "Do you have active accounts with any of these social networks?",
+            "createdAt": "2016-07-11T01:39:13Z",
+            "updatedAt": "2017-06-02T06:10:44Z",
+            "description": "Social networks are often targeted by cybercriminals. Knowing which accounts you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 7,
+                "name": "Social Media",
+                "description": "The more social media accounts you have, the more information you share, which increases the likelihood of becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 31,
+                    "label": "Facebook"
+                },
+                {
+                    "id": 32,
+                    "label": "Flickr"
+                },
+                {
+                    "id": 33,
+                    "label": "Google+"
+                },
+                {
+                    "id": 34,
+                    "label": "Instagram"
+                },
+                {
+                    "id": 35,
+                    "label": "LinkedIn"
+                },
+                {
+                    "id": 44,
+                    "label": "Myspace"
+                },
+                {
+                    "id": 36,
+                    "label": "Pinterest"
+                },
+                {
+                    "id": 37,
+                    "label": "Reddit"
+                },
+                {
+                    "id": 38,
+                    "label": "Snapchat"
+                },
+                {
+                    "id": 40,
+                    "label": "Twitter"
+                },
+                {
+                    "id": 41,
+                    "label": "Vine"
+                },
+                {
+                    "id": 42,
+                    "label": "YouTube"
+                },
+                {
+                    "id": 48,
+                    "label": "Other"
+                },
+                {
+                    "id": 47,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 48,
+            "noneId": 47,
+            "includesNone": true
+        },
+        "answer": null
+    },
+    {
+        "question": {
+            "type": "CloseEndedQuestion",
+            "id": "0156d85d-7551-4e2a-b63f-7787b1aa5668",
+            "label": "Do you have accounts with any of these dating apps or websites?",
+            "createdAt": "2016-09-14T06:00:46Z",
+            "updatedAt": "2017-06-02T06:10:44Z",
+            "description": "Dating apps and websites are often targeted by cybercriminals. Knowing which accounts you use helps us provide the latest alerts and advice.",
+            "group": {
+                "id": 7,
+                "name": "Social Media",
+                "description": "The more social media accounts you have, the more information you share, which increases the likelihood of becoming a victim of identity theft or fraud."
+            },
+            "area": "enrollment and questionnaire",
+            "meta": {},
+            "singleSelection": false,
+            "options": [
+                {
+                    "id": 30,
+                    "label": "eHarmony"
+                },
+                {
+                    "id": 43,
+                    "label": "Match"
+                },
+                {
+                    "id": 45,
+                    "label": "OkCupid"
+                },
+                {
+                    "id": 291,
+                    "label": "PlentyOfFish"
+                },
+                {
+                    "id": 46,
+                    "label": "Tinder"
+                },
+                {
+                    "id": 292,
+                    "label": "Zoosk"
+                },
+                {
+                    "id": 338,
+                    "label": "Other"
+                },
+                {
+                    "id": 339,
+                    "label": "None"
+                }
+            ],
+            "includesOther": true,
+            "otherId": 338,
+            "noneId": 339,
+            "includesNone": true
+        },
+        "answer": null
+    }
+]

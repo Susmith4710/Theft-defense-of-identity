@@ -1,0 +1,67 @@
+{
+    "identity": {
+        "total": 2,
+        "countResolved": 0,
+        "countUnresolved": 2
+    },
+    "socialMedia": {
+        "total": 0,
+        "countResolved": 0,
+        "countUnresolved": 0
+    },
+    "credit": {
+        "total": 23,
+        "countResolved": 3,
+        "countUnresolved": 20
+    },
+    "threat": {
+        "total": 0,
+        "countResolved": 0,
+        "countUnresolved": 0
+    },
+    "socialMediaMonitoring": {
+        "total": 0,
+        "countResolved": 0,
+        "countUnresolved": 0
+    },
+    "bankAccount": {
+        "total": 6,
+        "countResolved": 0,
+        "countUnresolved": 6
+    },
+    "publicRecord": {
+        "total": 5,
+        "countResolved": 0,
+        "countUnresolved": 5
+    },
+    "historicalDarkWeb": {
+        "total": 0,
+        "countResolved": 0,
+        "countUnresolved": 0
+    },
+    "address": {
+        "total": 1,
+        "countResolved": 0,
+        "countUnresolved": 1
+    },
+    "ssnTrace": {
+        "total": 0,
+        "countResolved": 0,
+        "countUnresolved": 0
+    },
+    "darkWeb": {
+        "total": 9,
+        "countResolved": 0,
+        "countUnresolved": 9
+    },
+    "transaction": {
+        "total": 1,
+        "countResolved": 0,
+        "countUnresolved": 1
+    },
+    "highRisk": {
+        "total": 1,
+        "countResolved": 0,
+        "countUnresolved": 1
+    }
+}

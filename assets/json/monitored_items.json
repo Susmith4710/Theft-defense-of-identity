@@ -1,0 +1,118 @@
+[
+    {
+        "id": "ac66dfc1-bf9e-4baf-88ef-3c50ec142189",
+        "createdAt": "2022-05-23T08:26:16.476Z",
+        "updatedAt": "2022-05-23T08:26:16.476Z",
+        "itemType": "email",
+        "group": "dark web",
+        "emailAddress": "precomfam_ios@yopmail.com"
+    },
+    {
+        "id": "880f1b69-4fbf-4f3b-83df-f61f1ce47054",
+        "createdAt": "2022-05-23T08:26:25.082Z",
+        "updatedAt": "2022-05-23T08:26:25.082Z",
+        "itemType": "name",
+        "group": "dark web",
+        "name": {
+            "first": "Quinten",
+            "middle": "",
+            "last": "Schmeler",
+            "suffix": ""
+        }
+    },
+    {
+        "id": "2c770e6d-2737-429d-88e3-78b22a39a1fe",
+        "createdAt": "2022-05-23T08:27:16.952Z",
+        "updatedAt": "2022-05-23T08:27:16.952Z",
+        "itemType": "phone",
+        "group": "dark web",
+        "phone": {
+            "number": "5805100100",
+            "type": "unknown"
+        },
+        "phoneNumber": "5805100100"
+    },
+    {
+        "id": "1fcd96fb-1f28-455f-90d7-d3a82d5fbbfb",
+        "createdAt": "2022-05-23T08:27:37.790Z",
+        "updatedAt": "2022-05-23T08:27:37.790Z",
+        "itemType": "ssn",
+        "group": "dark web",
+        "ssn": {
+            "lastFour": "0529"
+        }
+    },
+    {
+        "id": "1cf20da7-c9f8-4bed-80e2-0e8fc9ff6543",
+        "createdAt": "2022-05-23T08:27:37.793Z",
+        "updatedAt": "2022-05-23T08:27:37.793Z",
+        "itemType": "birth date",
+        "group": "dark web",
+        "birthDate": "1990-07-01"
+    },
+    {
+        "id": "eabf261d-cb0a-44e3-9eb0-2ec305ffae67",
+        "createdAt": "2022-06-03T11:03:50.800Z",
+        "updatedAt": "2022-06-03T11:03:50.800Z",
+        "itemType": "phone",
+        "group": "dark web",
+        "phone": {
+            "number": "8971722544",
+            "type": "work"
+        },
+        "phoneNumber": "8971722544"
+    },
+    {
+        "id": "bbeccc5d-708d-4905-aa45-09abfb5b5d4d",
+        "createdAt": "2022-06-06T05:12:08.967Z",
+        "updatedAt": "2022-06-06T05:12:08.967Z",
+        "itemType": "driver license",
+        "group": "dark web",
+        "driverLicense": {
+            "lastFour": "2445"
+        }
+    },
+    {
+        "id": "d2883df3-31c0-4db5-9a92-417627d697f1",
+        "createdAt": "2022-06-08T04:56:14.293Z",
+        "updatedAt": "2022-06-08T04:56:14.293Z",
+        "itemType": "financial account",
+        "group": "dark web",
+        "financialAccount": {
+            "lastFour": "6672",
+            "type": "checking"
+        }
+    },
+    {
+        "id": "0f93fd5a-213c-4090-9c22-0bac83f91fb6",
+        "createdAt": "2022-06-08T04:58:11.160Z",
+        "updatedAt": "2022-06-08T04:58:11.160Z",
+        "itemType": "health info",
+        "group": "dark web",
+        "healthInfo": {
+            "insuranceProvider": "Panasonic",
+            "lastFour": "2562"
+        }
+    },
+    {
+        "id": "8fc923e0-342d-4def-85bc-1fcc8b262c4a",
+        "createdAt": "2022-06-08T04:58:35.302Z",
+        "updatedAt": "2022-06-08T04:58:35.302Z",
+        "itemType": "passport",
+        "group": "dark web",
+        "passport": {
+            "lastFour": "3783"
+        }
+    },
+    {
+        "id": "f0acc2d8-9822-4ada-a85a-1a735d36ad1f",
+        "createdAt": "2022-06-08T04:59:44.254Z",
+        "updatedAt": "2022-06-08T04:59:44.254Z",
+        "itemType": "loyalty card number",
+        "group": "dark web",
+        "loyaltyCard": {
+            "name": "ApolloHealth",
+            "lastFour": "3838"
+        }
+    }
+]

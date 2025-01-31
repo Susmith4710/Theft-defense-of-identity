@@ -1,0 +1,30 @@
+{
+    "createdAt": "2022-06-22T14:05:32Z",
+    "updatedAt": "2022-06-27T07:03:49Z",
+    "id": "01818bbb-878b-4e4f-831d-05f37e826f40",
+    "status": "active",
+    "userId": "01818bba-4762-41b3-80b9-39af7c6cc3a8",
+    "maxChildren": null,
+    "maxAdults": null,
+    "participants": [
+        {
+            "createdAt": "2022-06-27T07:03:46Z",
+            "updatedAt": "2022-06-27T07:03:49Z",
+            "id": "0181a3f9-311d-4b51-b464-76c9d4da5013",
+            "participantType": "child",
+            "status": "enrolled",
+            "name": {
+                "first": "Myaaghana",
+                "middle": null,
+                "last": "Dondepudi",
+                "suffix": ""
+            },
+            "birthDate": "2009-04-12",
+            "relationship": "daughter",
+            "ssnLastFour": "8965",
+            "visible": true
+        }
+    ],
+    "isAdultLimitReached": false,
+    "isChildLimitReached": false
+}
