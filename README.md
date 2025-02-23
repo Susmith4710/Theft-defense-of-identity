@@ -1,16 +1,24 @@
-# idd_app
+# Identity Defense
 
-A new Flutter project.
+## Overview
+Identity Defense is a comprehensive identity theft protection service dedicated to safeguarding personal information against fraud and unauthorized access. Utilizing an AI-powered platform, Identity Defense monitors vast amounts of data to detect and alert users to potential threats, ensuring proactive protection in today's interconnected world.
 
-## Getting Started
+## Services Offered
+Identity Defense offers a range of services tailored to meet the diverse needs of individuals and families:
 
-This project is a starting point for a Flutter application.
+- **Dark Web Monitoring**: Scans the dark web for personal information, alerting users if their data is found in compromised locations.
+- **High-Risk Transaction Monitoring**: Notifies users of suspicious activities, such as changes to bank information or unauthorized credit checks.
+- **Credit Monitoring**: Provides monitoring across one or all three major credit bureaus, with alerts for changes that could indicate fraudulent activity.
+- **Monthly Credit Score Updates**: Keeps users informed about their credit health with regular updates.
+- **Address Monitoring**: Alerts users to changes in their registered addresses, helping to prevent fraudulent redirection of mail.
+- **Bank Account Takeover Alerts**: Monitors for unauthorized access to bank accounts, providing timely notifications to prevent potential losses.
+- **Social Media Monitoring**: Keeps an eye on social media accounts for signs of compromise or misuse.
+- **Identity Theft Insurance**: Offers up to $1 million in coverage for expenses related to identity theft, including legal fees and lost wages.
 
-A few resources to get you started if this is your first Flutter project:
+## Subscription Plans
+Identity Defense provides flexible subscription options to cater to different protection requirements:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Individual Plans**: Designed for single users seeking personal protection.
+- **Family Plans**: Covers up to five adults and unlimited minors, ensuring comprehensive protection for the entire household.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
