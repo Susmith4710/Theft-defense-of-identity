@@ -1,7 +1,7 @@
 # Identity Defense
 
 ## Overview
-Identity Defense is a comprehensive identity theft protection service dedicated to safeguarding personal information against fraud and unauthorized access. Utilizing an AI-powered platform, Identity Defense monitors vast amounts of data to detect and alert users to potential threats, ensuring proactive protection in today's interconnected world.
+Identity Defense is a comprehensive identity theft protection service dedicated to safeguarding personal information against fraud and unauthorized access. Identity Defense monitors vast amounts of data to detect and alert users to potential threats, ensuring proactive protection in today's interconnected world.
 
 ## Services Offered
 Identity Defense offers a range of services tailored to meet the diverse needs of individuals and families:
@@ -12,8 +12,6 @@ Identity Defense offers a range of services tailored to meet the diverse needs o
 - **Monthly Credit Score Updates**: Keeps users informed about their credit health with regular updates.
 - **Address Monitoring**: Alerts users to changes in their registered addresses, helping to prevent fraudulent redirection of mail.
 - **Bank Account Takeover Alerts**: Monitors for unauthorized access to bank accounts, providing timely notifications to prevent potential losses.
-- **Social Media Monitoring**: Keeps an eye on social media accounts for signs of compromise or misuse.
-- **Identity Theft Insurance**: Offers up to $1 million in coverage for expenses related to identity theft, including legal fees and lost wages.
 
 ## Subscription Plans
 Identity Defense provides flexible subscription options to cater to different protection requirements:
