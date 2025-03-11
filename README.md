@@ -6,7 +6,6 @@ Identity Defense is a comprehensive identity theft protection service dedicated 
 ## Services Offered
 Identity Defense offers a range of services tailored to meet the diverse needs of individuals and families:
 
-- **Dark Web Monitoring**: Scans the dark web for personal information, alerting users if their data is found in compromised locations.
 - **High-Risk Transaction Monitoring**: Notifies users of suspicious activities, such as changes to bank information or unauthorized credit checks.
 - **Credit Monitoring**: Provides monitoring across one or all three major credit bureaus, with alerts for changes that could indicate fraudulent activity.
 - **Monthly Credit Score Updates**: Keeps users informed about their credit health with regular updates.
